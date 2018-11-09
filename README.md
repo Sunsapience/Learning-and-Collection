@@ -1,8 +1,4 @@
-
-1.Sequence Modeling
-==
-a.Temporal Convolutional Networks
----
-1.[An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling](http://cn.arxiv.org/pdf/1803.01271v2)   
-2.[Temporal Convolutional Networks for Action Segmentation and Detection](https://researchweb.iiit.ac.in/~anurag.ghosh/static/papers/action/lea2017temporal.pdf)  
-3.
+该仓库包含两部分内容：
+===
+1.收集看到的文章，并作简要的分类和点评 ； 
+2.收集好的仓库；
